@@ -1,2 +1,14 @@
 # web-trial-1
- 
+ <head>
+    <style>
+        h1{
+            text-align: center;
+        }
+    </style>
+    <title>hello world</title>
+
+</head>
+<body>
+    <h1>Hello World</h1>
+    <p>hi chandramouli</p>
+</body>
